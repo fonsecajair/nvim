@@ -15,7 +15,7 @@ return {
       desc = "Find Files",
     },
     {
-      "<leader>fg",
+      "<leader>fc",
       function()
         require("telescope.builtin").live_grep()
       end,
