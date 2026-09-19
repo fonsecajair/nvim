@@ -7,7 +7,7 @@ Go to *~/.config*
 ```cd ~/.config```
 
 
-Make a backup of your current *nvim* folder
+Make a backup of your current *nvim* folder (if it exists)
 
 ```cp nvim ~/Documents```
 
